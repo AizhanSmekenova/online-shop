@@ -1,7 +1,7 @@
 
 const getData = (str) => {
 
-    return fetch(`https://test-f1033-default-rtdb.firebaseio.com/goods.json`)
+    return fetch(`https://online-shop-af643-default-rtdb.firebaseio.com/goods.json`)
         .then(res => res.json())
 }
 
