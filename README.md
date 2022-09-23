@@ -5,7 +5,7 @@
 
 ![online-shop](https://github.com/AizhanSmekenova/online-shop/blob/main/online-shop.gif)
 
-Rendered a catalog of items from test db (https://online-shop-af643-default-rtdb.firebaseio.com/goods.json).
+Rendered a catalog of items from test db.
 
 Also it has search, filters and shop cart, managed by localstorage.
 All components are in the src folder.
